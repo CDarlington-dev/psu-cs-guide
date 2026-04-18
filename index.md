@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 ## Introduction
 It is getting harder and harder to find a job in Computer Science by the year. I will help you navigate your journey at Penn State to maximize your chances of getting a job out of college.
@@ -14,7 +15,7 @@ This guide is for Penn State students in the College of Engineering majoring in 
 This guide provides a four-year plan for Penn State’s College of Engineering Computer Science program. It covers classes, clubs, job applications, and interviews.
 
 ## What this Guide Assumes Users Know
-This guide assumes users know how to use LionPath to schedule classes. For more information, [check out this website][class scheduling]. Outside of this, this guide requires no prior knowledge.
+This guide assumes users know how to use LionPath to schedule classes. For more information, <a href="https://www.registrar.psu.edu/faculty-staff/scheduling/class-scheduling/" target="_blank">class scheduling</a>. Outside of this, this guide requires no prior knowledge.
 
 ## How this Guide is Organized
 This guide is organized into four sections, one for each year of the degree. Each year covers classes, clubs, job applications, and interviews, linking outside resources where relevant.
@@ -23,5 +24,3 @@ This guide is organized into four sections, one for each year of the degree. Eac
 - Jump to your current year and read sequentially
 - If primarily focused on internships/jobs, check out year 3
 - For specific info, try using the search bar at the top
-
-[class scheduling]: https://www.registrar.psu.edu/faculty-staff/scheduling/class-scheduling/
