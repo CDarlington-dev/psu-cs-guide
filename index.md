@@ -2,34 +2,26 @@
 title: Home
 layout: home
 ---
+## Introduction
+It is getting harder and harder to find a job in Computer Science by the year. I will help you navigate your journey at Penn State to maximize your chances of getting a job out of college.
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+I am currently a junior with an internship at IBM, which will most likely lead to a six-figure job out of college. Throughout this resource guide I will provide my recommendations on what you should do during each year of your college career along with resources to help you as you go. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Who this Guide is For
+This guide is for Penn State students in the College of Engineering majoring in Computer Science who want to land a job out of college.
 
-More specifically, the created site:
+## What’s in this Guide
+This guide provides a four-year plan for Penn State’s College of Engineering Computer Science program. It covers classes, clubs, job applications, and interviews.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## What this Guide Assumes Users Know
+This guide assumes users know how to use LionPath to schedule classes. For more information, [check out this website][class scheduling]. Outside of this, this guide requires no prior knowledge.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## How this Guide is Organized
+This guide is organized into four sections, one for each year of the degree. Each year covers classes, clubs, job applications, and interviews, linking outside resources where relevant.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Tips for Using this Guide
+- Jump to your current year and read sequentially
+- If primarily focused on internships/jobs, check out year 3
+- For specific info, try using the search bar at the top
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[class scheduling]: https://www.registrar.psu.edu/faculty-staff/scheduling/class-scheduling/
