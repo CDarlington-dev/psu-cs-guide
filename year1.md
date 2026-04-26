@@ -3,6 +3,8 @@ title: Year 1
 layout: default
 nav_order: 2
 ---
+# Year 1
+
 ## Classes
 First things first, set up your classes. For more information on how to schedule classes, see <a href="https://www.registrar.psu.edu/faculty-staff/scheduling/class-scheduling/" target="_blank">class scheduling</a>. You can find your requirements on the PSU <a href="https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/#programrequirementstext" target="_blank">course catalog</a>. It is important to choose classes that are prerequisites for other classes. This includes your intro CS classes (CMPSC 131 and CMPSC 132) and intro math classes (Math 140 and 141). Penn State provides <a href="https://advising.engr.psu.edu/degree-requirements/flow-charts.aspx" target="_blank">flow charts</a> for each major in the college of engineering. Check out the Computer Science one for a suggested four year schedule.
 

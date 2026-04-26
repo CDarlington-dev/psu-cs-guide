@@ -3,6 +3,8 @@ title: Home
 layout: home
 nav_order: 1
 ---
+# Home 
+
 ## Introduction
 It is getting harder and harder to find a job in Computer Science by the year. I will help you navigate your journey at Penn State to maximize your chances of getting a job out of college.
 

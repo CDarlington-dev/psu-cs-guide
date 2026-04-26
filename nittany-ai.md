@@ -5,7 +5,7 @@ parent: Resources
 nav_order: 1
 ---
 
-## Nittany AI
+# Nittany AI
 
 <a href="https://nittanyai.psu.edu/" target="_blank">Nittany AI</a> is a student-led club, offering four programs that create a clear pipeline from coursework to a paid internship. This includes their leadership academy, the AI challenge, machine learning bootcamp, and the Advance internship. For PSU students aiming for a job in AI, these experiences are invaluable. Firstly, their <a href="https://nittanyai.psu.edu/student-society/leadership-academy" target="_blank">leadership academy</a> helps build leadership / project management skills. Their <a href="https://nittanyai.psu.edu/programs/challenge" target="_blank">AI challenge</a> allows you to find a team of students to complete an AI related project to potentially earn $5000+ in prize money.
 
