@@ -15,7 +15,7 @@ This guide is for Penn State students in the College of Engineering majoring in 
 This guide provides a four-year plan for Penn State’s College of Engineering Computer Science program. It covers classes, clubs, job applications, and interviews.
 
 ## What this Guide Assumes Users Know
-This guide assumes users know how to use LionPath to schedule classes. For more information, <a href="https://www.registrar.psu.edu/faculty-staff/scheduling/class-scheduling/" target="_blank">class scheduling</a>. Outside of this, this guide requires no prior knowledge.
+This guide assumes users attend Penn State, are pursuing a Computer Science major, and have some knowledge of Penn State programs like LionPATH. No prior technical experience is necessary.
 
 ## How this Guide is Organized
 This guide is organized into four sections, one for each year of the degree. Each year covers classes, clubs, job applications, and interviews, linking outside resources where relevant.
