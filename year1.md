@@ -14,8 +14,8 @@ Most classes, especially popular ones, have multiple sections at different times
 ## Clubs
 Freshman year will typically be your least busy year. A club is a great idea to both build a sense of community and improve your future job prospects. My primary suggestion is <a href="nittany-ai.html">Nittany AI</a>’s <a href="https://nittanyai.psu.edu/student-society/machine-learning-bootcamp" target="_blank">Machine Learning bootcamp</a>. This bootcamp looks great on a resume, especially for a freshman, and can help you find an internship with Nittany AI later.
 
-## Internship
+## Internships
 Don’t be concerned if you don’t get an internship within your first year. This is extremely difficult and isn’t worth stressing over. Instead focus on your classes. A common problem for many college students in general is that they treat it too much like High School. Show up to class, go to office hours, complete all your assignments on time (without AI), and start studying a week before your exams. This may sound like a lot of work, but these are your foundational classes which everything else builds upon. Now is not the time you want to fall behind.
 
-## Project
+## Projects
 Try building something. Unlike many other majors, a Computer Science resume relies heavily on self made projects. Just try creating something you’re interested in. This could be anything from a scheduler for your daily life to a game. Have fun with it! This is also the best way to get better at programming in general.
