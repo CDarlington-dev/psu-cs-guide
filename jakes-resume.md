@@ -7,7 +7,7 @@ nav_order: 2
 
 # Jake’s Resume Template
 
-## What is Jake’s Resume Template?
+## Overview
 <a href="https://jakesresume.com/" target="_blank">Jake’s resume template</a> is a very commonly used resume template, specifically tailored to Computer Science students. It is designed to be very easily readable, both by humans and computer software used to filter resumes. I would recommend this template for all PSU CS students.
 
 ## Downloading
