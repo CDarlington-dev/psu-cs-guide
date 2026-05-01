@@ -2,7 +2,7 @@
 title: NeetCode 150
 layout: default
 parent: Resources
-nav_order: 3
+nav_order: 5
 ---
 
 # NeetCode 150

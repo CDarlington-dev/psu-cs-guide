@@ -23,4 +23,4 @@ Many jobs / internships on LinkedIn are very easy to apply to, only requiring fi
 - You can use LinkedIn’s AI search feature to describe the type of job you want and find where you should apply to.
 - Apply to as many positions as possible! Applying to safety positions is never a bad idea.
 - See <a href="job-application-resources.html">Job Application Resources</a> for more info.
-- For PSU specific job postings, see <a href="https://app.joinhandshake.com/" target="_blank">handshake</a>.
+- For PSU specific job postings, check out <a href="https://app.joinhandshake.com/" target="_blank">Handshake</a>.
