@@ -1,7 +1,7 @@
 ---
 title: Cover Letter
 layout: default
-parent: Job Application
+parent: Job Application Resources
 nav_order: 2
 ---
 

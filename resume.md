@@ -1,14 +1,14 @@
 ---
 title: Resume
 layout: default
-parent: Job Application
+parent: Job Application Resources
 nav_order: 1
 ---
 
 # Resume
 
 ## Format
-For your resume, use Jake’s Resume template [Insert Link] since it looks clean and is very easy to modify. This is a tried and tested template that helped many CS students land jobs. Keep your resume to one page, since it’s industry standard. For your header, you should include your name, phone number, and email. If your LinkedIn [Insert Link] is polished and your GitHub is active, include those as well.
+For your resume, use <a href="jakes-resume.html">Jake’s Resume Template</a> since it looks clean and is very easy to modify. This is a tried and tested template that helped many CS students land jobs. Keep your resume to one page, since it’s industry standard. For your header, you should include your name, phone number, and email. If your <a href="linkedin.html">LinkedIn</a> is polished and your GitHub is active, include those as well.
 
 ## Section Ordering
 Keep your education section first. Most jobs heavily favor college students / graduates, so don’t bury it. Hiring managers often skim resumes, so order the remaining sections based on importance. If you have relevant job experience, prioritize it. You may want to reorder your resume based on the job you are applying for. It only takes a minute and it can significantly boost your chances of getting the job. 

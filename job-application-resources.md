@@ -1,5 +1,5 @@
 ---
-title: Job Application
+title: Job Application Resources
 layout: default
 nav_order: 6
 has_children: true

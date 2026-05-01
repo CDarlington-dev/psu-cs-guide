@@ -1,7 +1,7 @@
 ---
 title: Behavioral Interview
 layout: default
-parent: Job Application
+parent: Job Application Resources
 nav_order: 4
 ---
 
