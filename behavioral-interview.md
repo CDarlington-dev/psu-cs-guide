@@ -17,7 +17,7 @@ It may seem difficult to practice when you don’t know what kinds of questions 
 You don’t want to make your answers too long, since they may cause your interviewer to lose focus. You also don’t want to make your answers too short since short answers typically don’t answer a question in its entirety. Aim for the sweet spot of around 60-90 seconds. When practicing, time yourself. If you take too long, you may have to remove some fluff, while if your answers are too short, add a little. 
 
 ## Body Language
-Body language is just as important as what you’re saying. If offered, make sure to have a firm handshake while maintaining eye contact. During your interview, you want to appear and sound confident, but not egotistical. Be engaged and enthusiastic. Employers much prefer to see someone excited for the job. Smiling, when appropriate, looks great during an interview. Sit up straight and keep good posture throughout. 
+Body language is just as important as what you’re saying. If offered, make sure to give a firm handshake while maintaining eye contact. During your interview, you want to appear and sound confident, but not egotistical. Be engaged and enthusiastic. Employers much prefer to see someone excited for the job. Smiling, when appropriate, looks great during an interview. Sit up straight and keep good posture throughout. 
 
 
 ## Stories
