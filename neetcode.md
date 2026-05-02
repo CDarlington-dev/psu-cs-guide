@@ -10,6 +10,12 @@ nav_order: 5
 ## Overview
 The <a href="https://neetcode.io/roadmap" target="_blank">NeetCode 150</a> provides a road map of 150 algorithmic problems to help you build expertise in using data structures (like arrays, stacks, and heaps) and algorithmic ideas (like backtracking, dynamic programming, and greedy algorithms). For PSU CS students, becoming proficient in these skills is very important for acing the <a href="technical-interview.html">Technical Interview</a>. They offer support for nine different programming languages, so it can be worth it to redo some of these problems when learning a new one.
 
+
+<figure>
+    <img src="images/roadmap.png" alt = "screenshot of NeetCode 150 roadmap" width = "600">
+    <figcaption>Source: <a href="https://neetcode.io/roadmap" target="_blank">neetcode.io/roadmap</a> </figcaption>
+</figure>
+
 ## Where to Start?
 I would recommend starting at arrays & hashing and following the path that they provide. Skipping around is not ideal since the later units rely on knowledge you’ve gained from the prior units. For example, binary search requires learning two pointers first, which relies on arrays, so it would be very difficult to learn binary search without learning the prior two concepts.
 

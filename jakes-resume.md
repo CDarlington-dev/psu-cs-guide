@@ -10,6 +10,11 @@ nav_order: 3
 ## Overview
 <a href="https://jakesresume.com/" target="_blank">Jake’s resume template</a> is a very commonly used resume template, specifically tailored to Computer Science students. It is designed to be very easily readable, both by humans and computer software used to filter resumes. I would recommend this template for all PSU CS students.
 
+<figure>
+    <img src="images/resume.png" alt = "screenshot of Jake's Resume" width = "600">
+    <figcaption>Source: <a href="https://jakesresume.com/" target="_blank">jakesresume.com</a> </figcaption>
+</figure>
+
 ## Downloading
 First, <a href="https://jakesresume.com/download/" target="_blank">download the template</a>. I would recommend downloading the LaTeX (.tex) version and uploading it to <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>, a LaTeX editor. After creating an Overleaf account you can upload the .tex file by clicking new project > upload project, and then selecting the .zip file you downloaded. They also have a version in Microsoft Word, but I would lean toward using the LaTeX version since it has better formatting. If you would rather use Word, they have four templates, make sure you’re using the first one, with “TECH” in the title. The Word version also looks professional.
 
