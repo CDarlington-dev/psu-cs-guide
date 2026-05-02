@@ -8,7 +8,7 @@ nav_order: 3
 # Technical Interview
 
 ## What is a Technical Interview?
-For a Computer Science position, a technical interview is typically the first step in the interviewing process. These involve solving algorithmic questions well in a limited amount of time (typically around an hour). This acts as a filter which most applicants do not pass. It is important to be particularly well versed in algorithms for these interviews.
+For a Computer Science position, a technical interview is typically the first step in the interviewing process. These involve solving algorithmic questions well in a limited amount of time (typically around an hour). This acts as a filter which most applicants do not pass. It is important to be particularly well-versed in algorithms for these interviews.
 
 ## Format
 They will usually provide a place to write and test code along with a few example problems. You will be graded not only on your code, but also how well you are able to communicate your problem solving process. 

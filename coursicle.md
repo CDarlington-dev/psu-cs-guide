@@ -14,6 +14,6 @@ nav_order: 1
 Most people don’t leave ratings unless they feel very strongly toward a professor. This tends to lead to lower professor ratings. Coursicle realizes this, and marks any teacher with at least 64% positive ratings as good and at least 45% marked as average. These ratings still have flaws. Professors with few ratings could have their ratings significantly decreased by one or two unhappy students. I recommend actually reading through the reviews to see what the students are complaining about. You should treat more recent reviews and reviews for the class you are taking as more important. Ratings are still important since a professor with many negative ratings generally leads to a worse experience than one with many positive ratings.
 
 ## Tips
-- Double check professors, times, and open seats on LionPath. Sometimes Coursicle takes some time to update leading to inaccurate information.
+- Double-check professors, times, and open seats on LionPath. Sometimes Coursicle takes some time to update, leading to inaccurate information.
 - Harder classes lead to teachers having worse ratings, even if they taught it well.
 - Coursicle offers a feature to get notified when a course opens up, but I recommend just using LionPath’s built in <a href="https://advising.psu.edu/scheduling-course-full" target="_blank">waitlist system</a>.
